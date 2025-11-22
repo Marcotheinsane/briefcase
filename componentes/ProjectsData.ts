@@ -11,7 +11,7 @@ export const projects = [
         tech: ["Django", "Mysql", "TailwindCss", "Python"],
         image: "img/hotel_lillo.png",
         github: "https://github.com/Marcotheinsane/HotelLillo--Manager-Directory",
-        demo: ""
+        demo: "https://hotellillo-manager-directory-production.up.railway.app/login/ "
 
     }
 ]
